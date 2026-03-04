@@ -2,14 +2,14 @@
   <img src="brand/logo@2x.png" alt="SFML Stats" width="250">
 </p>
 
-<h1 align="center">SFML Stats Dashboard V12 "Developer-Version"</h1>
+<h1 align="center">SFML Stats — Energy-Dashboard V14 "Developer-Version"</h1>
 
 <p align="center">
   <strong>Comprehensive Energy Monitoring Dashboard for Home Assistant — Charts, Reports & Real-Time Flows</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zara-Toorox/sfml_stats"><img src="https://img.shields.io/badge/version-12.8.0-blue.svg" alt="Version"></a>
+  <a href="https://github.com/Zara-Toorox/sfml_stats"><img src="https://img.shields.io/badge/version-14.0.0-blue.svg" alt="Version"></a>
   <a href="https://hacs.xyz/"><img src="https://img.shields.io/badge/HACS-Custom-orange.svg" alt="HACS"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Proprietary%20Non--Commercial-green.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/platform-x86__64-lightgrey.svg" alt="Platform">
@@ -220,7 +220,7 @@ Or add it to your sidebar via the Home Assistant configuration.
 
 ## Requirements
 
-- Home Assistant 2024.1.0+
+- Home Assistant 2026.3.0+
 - x86_64 platform (Intel NUC, VM, LXC)
 - ~4GB+ RAM recommended
 - Python packages: matplotlib, aiofiles (installed automatically)
