@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="brand/logo@2x.png" alt="SFML Stats" width="250">
+  <img src="custom_components/sfml_stats/brand/logo@2x.png" alt="SFML Stats" width="250">
 </p>
 
 <h1 align="center">SFML Stats — Energy-Dashboard V14 "Developer-Version"</h1>
@@ -25,7 +25,7 @@ A powerful dashboard that visualizes solar production, battery storage, grid con
 
 ## What Makes This Dashboard Special?
 
-<img src="brand/logo@2x.png" alt="SFML Stats — Energy Monitoring Dashboard" align="left" width="250">
+<img src="custom_components/sfml_stats/brand/logo@2x.png" alt="SFML Stats — Energy Monitoring Dashboard" align="left" width="250">
 
 SFML Stats Dashboard provides a unified view of your entire energy ecosystem. It turns raw sensor data into beautiful, actionable insights — from real-time power flows to automated weekly and monthly reports. Everything runs locally on your Home Assistant instance, with no cloud dependencies.
 
@@ -57,22 +57,22 @@ Part of the **Solar Forecast ML** ecosystem, SFML Stats is the visual companion 
 ### Energy Flow Dashboard
 Real-time visualization of your complete energy ecosystem — solar, battery, house, and grid with animated power flow lines.
 
-![Energy Flow Dashboard](pictures/energy-live.png)
+![Energy Flow Dashboard](custom_components/sfml_stats/pictures/energy-live.png)
 
 ### LCARS Theme
 Star Trek-inspired LCARS interface with full energy monitoring — Solar Array, Warp Core (Battery), Habitat (House), and Power Matrix (Grid).
 
-![LCARS Theme](pictures/lcars.png)
+![LCARS Theme](custom_components/sfml_stats/pictures/lcars.png)
 
 ### Developer Version — Energy Widgets
 Full energy widget display with live power values, Starfleet billing overview, and financial summary (requires Developer PIN).
 
-![Developer Energy Widgets](pictures/developer_energy.png)
+![Developer Energy Widgets](custom_components/sfml_stats/pictures/developer_energy.png)
 
 ### Developer Version — AI & Forecast Display
 Long-range forecast scanner, AI status, daily energy curve with forecast comparison, and per-panel group analytics (requires Developer PIN).
 
-![Developer AI Display](pictures/developer_ki.png)
+![Developer AI Display](custom_components/sfml_stats/pictures/developer_ki.png)
 
 ---
 
@@ -267,7 +267,7 @@ Starting with version 12.0.0, a **Developer Version** is available with full uno
 
 Proprietary Non-Commercial — free for personal and educational use. Commercial use and AI training are strictly prohibited. Clear attribution to "Zara-Toorox" is required.
 
-See [LICENSE](LICENSE) for full terms.
+See [LICENSE](custom_components/sfml_stats/LICENSE) for full terms.
 
 ---
 
